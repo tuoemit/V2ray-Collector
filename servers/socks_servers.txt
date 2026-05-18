@@ -1,2 +1,1 @@
-socks://Og@10.37.85.186:43199#@Eag1e_YT
-socks://Og@عددی
+socks://Og@1.1.1.1:10808#%40ProxyVPN11

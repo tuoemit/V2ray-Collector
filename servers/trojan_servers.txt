@@ -1,5 +1,5 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@80.93.202.253:443?allowInsecure=1&amp;host=Koma-YT.PAGeS.Dev&amp;path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&amp;sni=Koma-YT.PAGeS.Dev&amp;type=ws#v2ray_dalghak
-trojan://humanity@127.0.0.1:40443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#proxydotnet
-trojan://humanity@127.0.0.1:40443?security=tls&amp;sni=www.creationlong.org&amp;insecure=1&amp;allowInsecure=1&amp;type=ws&amp;host=www.creationlong.org&amp;path=%2Fassignment#v2ray_dalghak
-trojan://humanity@sourceforge.net:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;host=www.calmloud.com&amp;fp=chrome&amp;type=ws&amp;sni=www.calmloud.com#%40Vpn_jet7
-trojan://lWoqyLZ6xx@snappfood.ir:80/?host=wsphan.q69-cloud.ir&amp;path=%2Fmargbaaramricas&amp;security=none&amp;type=ws#%F0%9F%87%AE%F0%9F%87%B725778%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+trojan://8r%3C%5B9%27l6hAO%238ZQi@46.8.237.174:2053?sni=Koma-YT.PAGeS.Dev&amp;peer=Koma-YT.PAGeS.Dev&amp;security=tls#[57913]
+trojan://humanity@127.0.0.1:40443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.gossipglove.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.gossipglove.com#%40KurdConfing
+trojan://humanity@127.0.0.1:40443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%40KurdConfing
+trojan://humanity@127.0.0.1:40443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.creationlong.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.creationlong.org#v2ray_dalghak
+trojan://humanity@127.0.0.1:40443?security=tls&amp;sni=www.creationlong.org&amp;fp=chrome&amp;insecure=1&amp;allowInsecure=1&amp;type=ws&amp;host=www.creationlong.org&amp;path=%2Fassignment#v2ray_dalghak
