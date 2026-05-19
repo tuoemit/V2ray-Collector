@@ -1,1 +1,1 @@
-hysteria://），
+hysteria://62.210.29.98:10066/?insecure=1&amp;peer=bing.com&amp;auth=github.com%2FAlvin9999-newpac%2Ffanqiang&amp;upmbps=11&amp;downmbps=55&amp;alpn=h3#%F0%9F%98%875%40oneclickvpnkeys
