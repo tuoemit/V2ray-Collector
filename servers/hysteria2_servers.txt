@@ -1,8 +1,2 @@
-hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?insecure=0&fp=&sni=s516.okgfw.top&obfs=&obfs-password=#%F0%9F%87%B7%F0%9F%87%BARU_1%7C3.6MB/s
-hysteria2://DBUklcvOyH@45.81.19.251:443?insecure=1&sni=web.bale.ai#%40Proxy_Vpney%20v%2Bp%20%284%29
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#Telegram%20%3A%20%40V2ynpv
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.233.127.26:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#%F0%9F%87%AE%F0%9F%87%B3IN_%40WangCai_8
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@202.146.222.30:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-au-001.fastervpn.world:443?insecure=1&fp=&sni=vpn-au-001.fastervpn.world&obfs=&obfs-password=#%F0%9F%87%A6%F0%9F%87%BAAU_1%7C2.9MB/s
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-au-002.fastervpn.world:443?insecure=1&sni=vpn-au-002.fastervpn.world#%F0%9F%87%A6%F0%9F%87%BAAU_2%7C2.3MB/s
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-kr-002.fastervpn.world:443?insecure=1&sni=vpn-kr-002.fastervpn.world#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C1.4MB/s
+hysteria2://tg_7230388099:s1XZZ8Km1YajFNyd@nice.cuda-cluster-metrics.sbs.alexanderoff.ru:443/?sni=nice.cuda-cluster-metrics.sbs&amp;peer=nice.cuda-cluster-metrics.sbs&amp;alpn=h3#
+hysteria2://tg_7230388099:s1XZZ8Km1YajFNyd@sweden.cuda-cluster-metrics.sbs.alexanderoff.ru:443/?sni=sweden.cuda-cluster-metrics.sbs&amp;peer=sweden.cuda-cluster-metrics.sbs&amp;alpn=h3#
