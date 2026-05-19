@@ -1,7 +1,8 @@
-socks://Og%3D%3D@185.239.106.84:1449#
-socks://Og%3D%3D@94.182.251.124:8443#v2ray_plusz
-socks://Og@185.239.106.84:1449#%40vpnbaz%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
-socks://Og@193.242.125.88:8052#%40FastNetTools
-socks://Og@62.220.126.56:30170#
-socks://Og@62.220.126.92:30871#
-socks://dXNlcjE0OmVFMXRUYkIzcVE@mseu8.fastspeed.cfd:7854#%40FastNetTools
+socks://Og%3D%3D@185.239.106.84:1449#%F0%9F%A6%89%40FreeConfigForYou
+socks://Og@185.239.106.84:1449#%40Shomarrreh
+socks://Og@192.168.137.1:10808#%40Maznet-Spoof
+socks://Og@45.94.213.213:443#@V2RAYENGLISH
+socks://Og@62.220.126.56:30081#@V2RAYENGLISH
+socks://Og@62.220.126.56:30517#%40V2RAYENGLISH
+socks://ZXJtaWE6RXJtaWEzNDcyIw@185.231.183.229:80#%40V2RAYENGLISH
+socks://dXNlcjE0OmVFMXRUYkIzcVE@mseu8.fastspeed.cfd:7854#%E2%9C%85%EF%B8%8F%D8%A8%DB%8C%D8%A7%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A%20Shomarrreh%40
