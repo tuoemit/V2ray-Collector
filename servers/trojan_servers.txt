@@ -1,4 +1,5 @@
-trojan://2399fe0a-b359-40a9-a3f0-b70c3c177a01@cloudflare-ip.mofashi.ltd:443?type=ws&amp;host=aa.beijng.dpdns.org&amp;path=/?ed=2048&amp;security=tls&amp;sni=aa.beijng.dpdns.org#[58012]
-trojan://8r%3C%5B9%27l6hAO%238ZQi@46.8.237.174:2053?sni=Koma-YT.PAGeS.Dev&amp;peer=Koma-YT.PAGeS.Dev&amp;security=tls#v2ray_dalghak
-trojan://8r%3C%5B9%27l6hAO%238ZQi@80.93.202.253:443?allowInsecure=1&amp;host=Koma-YT.PAGeS.Dev&amp;path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&amp;sni=Koma-YT.PAGeS.Dev&amp;type=ws#v2ray_dalghak
-trojan://ErqfqAP72VK1XGySP7fNhQ@66.23.207.68:443?security=none&amp;type=ws&amp;headerType=&amp;path=%2F&amp;host=telegram.org&amp;prefix=%16%03%01%00%C2%A8%01%01#v2ray_dalghak
+trojan://2399fe0a-b359-40a9-a3f0-b70c3c177a01@cloudflare-ip.mofashi.ltd:443?type=ws&amp;host=aa.beijng.dpdns.org&amp;path=/?ed=2048&amp;security=tls&amp;sni=aa.beijng.dpdns.org#v2ray_dalghak
+trojan://humanity@127.0.0.1:40443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.creationlong.org&amp;type=ws&amp;allowInsecure=1&amp;sni=www.creationlong.org#v2ray_dalghak
+trojan://humanity@127.0.0.1:40443?security=tls&amp;sni=www.creationlong.org&amp;fp=chrome&amp;insecure=1&amp;allowInsecure=1&amp;type=ws&amp;host=www.creationlong.org&amp;path=%2Fassignment#v2ray_dalghak
+trojan://humanity@127.0.0.1:40443?security=tls&amp;sni=www.multiplydose.com&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=www.multiplydose.com&amp;path=%2F%2Fassignment#%40filembad
+trojan://humanity@sourceforge.net:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;host=www.calmloud.com&amp;fp=chrome&amp;type=ws&amp;sni=www.calmloud.com#%40filembad
