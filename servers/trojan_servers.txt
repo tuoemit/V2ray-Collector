@@ -1,10 +1,6 @@
-trojan://humanity@104.17.150.76:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.creationlong.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#%F0%9F%A7%94%E2%80%8D%E2%99%82%EF%B8%8F98%40oneclickvpnkeys
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.multiplydose.com#
-trojan://humanity@104.19.229.21:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.creationlong.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%20t.me%2FNatrixo%20AA
-trojan://humanity@127.0.0.1:40443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#@iicenet
-trojan://humanity@127.0.0.1:40443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.creationlong.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.creationlong.org#filembad-10
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#
-trojan://humanity@185.126.12.9:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#v2ray_dalghak
-trojan://humanity@v1.dabache.top:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.multiplydose.com#
-trojan://humanity@v1.dabache.top:443?security=tls&amp;type=ws&amp;sni=www.multiplydose.com&amp;path=/assignment&amp;host=www.multiplydose.com#
-trojan://lWoqyLZ6xx@snappfood.ir:80/?host=wsphan.q69-cloud.ir&amp;path=%2Fmargbaaramricas&amp;security=none&amp;type=ws#v2ray_dalghak
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.multiplydose.com#%F0%9F%87%B3%F0%9F%87%B1%20t.me%2FNatrixo%20AA
+trojan://humanity@104.19.229.21:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.creationlong.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.creationlong.org#[58135]
+trojan://humanity@127.0.0.1:40443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.creationlong.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.creationlong.org#v2ray_dalghak
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#[58145]
+trojan://humanity@v1.dabache.top:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.multiplydose.com#[58146]
+trojan://humanity@v1.dabache.top:443?security=tls&amp;type=ws&amp;sni=www.multiplydose.com&amp;path=/assignment&amp;host=www.multiplydose.com#[58148]
