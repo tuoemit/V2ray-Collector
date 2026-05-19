@@ -1,1 +1,1 @@
-socks5://102.69.146.59:7080
+socks5://128.140.46.169:13482&amp;security=tls&amp;sni=socks5.revil-time3.workers.dev&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA%20t.me%2FNatrixo%20BB
