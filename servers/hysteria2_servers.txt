@@ -1,5 +1,1 @@
-hysteria2://3c8246ab-d03a-4f5e-a65c-e80a30d613ee@hk.mjhy2.com:1443?insecure=1#A%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2001%20TG%3A%20%40nodpai
-hysteria2://3c8246ab-d03a-4f5e-a65c-e80a30d613ee@jp.mjhy2.com:1443?insecure=1&sni=jp.mjhy2.com#A%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2001%20TG%3A%20%40nodpai
-hysteria2://DBUklcvOyH@45.81.19.251:443?insecure=1&sni=web.bale.ai#%40Proxy_Vpney%20v%2Bp%20%284%29
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#Telegram%20%3A%20%40V2ynpv
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@160.187.100.109:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C1.7MB/s
+hysteria2://jOIItw1h4D@138.124.182.202:8443/?sni=latviyaotpusk1.home.kg#%F0%9F%A7%8359@oneclickvpnkeys
