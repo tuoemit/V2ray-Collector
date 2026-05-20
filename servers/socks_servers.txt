@@ -1,4 +1,8 @@
-socks://Og%3D%3D@185.239.106.84:1449#%F0%9F%A6%89%40FreeConfigForYou
-socks://Og@85.133.217.119:10808#SryLove
-socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#%40Shomarrreh
-socks://dXNlcjE0OmVFMXRUYkIzcVE@mseu8.fastspeed.cfd:7854#%F0%9F%A6%89%40FreeConfigForYou
+socks://Og@130.185.75.82:9595#%40KurdConfing%20%DA%A9%D9%88%D8%B1%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
+socks://Og@185.239.106.84:1449#%40vpnbaz%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+socks://Og@62.220.126.56:30170#%40KurdConfing%20%DA%A9%D9%88%D8%B1%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
+socks://Og@62.220.126.92:30871#%40KurdConfing%20%DA%A9%D9%88%D8%B1%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
+socks://Og@85.133.217.119:10808#
+socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw==@91.222.196.8:7071#@sogoandfuckyourlove
+socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#%40UnNurmal%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+socks://d2FudGVkOndhbnRlZA%3D%3D@188.121.119.248:9#%40byiroh
