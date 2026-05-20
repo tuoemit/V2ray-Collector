@@ -1,4 +1,7 @@
-socks://91.222.196.8:7071?type=tcp#%F0%9F%87%AE%F0%9F%87%B726556%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-socks://Og%3D%3D@81.12.24.237:28419#%F0%9F%87%AE%F0%9F%87%B726551%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-socks://Og%3D%3D@81.12.24.237:29112#%F0%9F%87%AE%F0%9F%87%B726550%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-socks://Og@85.133.217.119:10808#%40config4k
+socks://188.121.135.117:9998/
+socks://45.248.164.177:10808?type=tcp#Telegram
+socks://Og%3D%3D@185.239.106.84:1449#%40Hddify
+socks://Og==@62.220.126.92:32302?type=tcp#Telegram%20:
+socks://Og@185.239.106.84:1449#%40vpnbaz%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+socks://Og@85.133.217.119:10808#DA
+socks://dXNlcjE0OmVFMXRUYkIzcVE@mseu8.fastspeed.cfd:7854#@YamYamProxy
