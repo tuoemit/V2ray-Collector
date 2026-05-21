@@ -1,4 +1,7 @@
-socks://Og@171.22.24.184:1080#%40oliver_soul
-socks://Og@178.131.140.103:1080#
-socks://Og@85.133.217.119:10808#%40Shomarrreh
-socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#%40Shomarrreh
+socks://188.121.135.117:9998/
+socks://45.248.164.177:10808?type=tcp#Telegram
+socks://Og@171.22.24.184:1080#
+socks://Og@178.131.140.103:1080#%40
+socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw==@91.222.196.8:7071#@sogoandfuckyourlove
+socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#%40configmax
+socks://d2FudGVkOndhbnRlZA@188.121.119.248:9#%40configmax
