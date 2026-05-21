@@ -1,9 +1,6 @@
-socks://188.121.135.117:9998/
-socks://45.248.164.177:10808?type=tcp#Telegram
-socks://Og%3D%3D@185.239.106.84:1449#
-socks://Og@127.0.0.1:10880#iicenet
-socks://Og@185.239.106.84:1449#%40vpnbaz%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
-socks://Og@62.220.126.56:30170#
-socks://Og@62.220.126.92:30871#
-socks://Og@85.133.217.119:10808#DA
-socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#
+socks://Og@171.22.24.184:1080#%40UnNurmal
+socks://Og@178.131.140.103:1080#%40UnNurmal
+socks://Og@81.12.24.237:28419#%40v2ray_plusz
+socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#%40UnNurmal%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+socks://d2FudGVkOndhbnRlZA@188.121.119.248:9#%F0%9F%87%AE%F0%9F%87%B726908%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+socks://dXNlcjE0OmVFMXRUYkIzcVE@mseu8.fastspeed.cfd:7854#%F0%9F%A6%89%40FreeConfigForYou
