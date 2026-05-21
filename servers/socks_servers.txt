@@ -1,3 +1,4 @@
-socks://Og@171.22.24.184:1080#%40ProxyAnonymous
-socks://Og@178.131.140.103:1080#
-socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#https://t.me/ConfigX2ray
+socks://Og@171.22.24.184:1080#%40
+socks://Og@178.131.140.103:1080#%40
+socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#%40UnNurmal%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+socks://d2FudGVkOndhbnRlZA@188.121.119.248:9#%F0%9F%87%AE%F0%9F%87%B726908%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
