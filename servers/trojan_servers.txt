@@ -1,3 +1,12 @@
-trojan://bpb-trojan@172.67.180.227:443?type=ws&amp;security=tls&amp;sni=mashdt.pages.dev&amp;host=mashdt.pages.dev&amp;path=/tr?ed=2560#[61098]
-trojan://humanity@104.20.6.134:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.calmloud.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#
-trojan://humanity@2.144.2.245:40443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.ignitelimit.com#https://t.me/VIPV2rayNGNP
+trojan://045a2a7a27ffbef5@185.165.119.254:443?type=xhttp&amp;path=%2F&amp;host=&amp;mode=auto&amp;security=none#%40Vpn_jet7
+trojan://2Bb8zvNNJd@snappfood.ir:80?path=%2Fmargbaaramricas&amp;security=none&amp;host=wsphan.q69-cloud.ir&amp;type=ws#%40configmax
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.101.139:443?path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=sni.111000.dynv6.net&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.111000.dynv6.net#Pro%2019%20%40Outline_Vpn
+trojan://733a3ab1-5ad0-4f09-96ea-071c1f2b9176@94.183.173.165:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=morning-glitter-3e3b.gooorb-d.workers.dev#%40filembad
+trojan://8r%3C%5B9%27l6hAO%238ZQi@194.120.116.68:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;host=Koma-YT.PAGeS.Dev&amp;path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&amp;sni=Koma-YT.PAGeS.Dev&amp;type=ws#@GozargahAzad|
+trojan://8r%3C%5B9%27l6hAO%238ZQi@194.120.116.68:2053?host=Koma-YT.PAGeS.Dev&amp;path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&amp;sni=Koma-YT.PAGeS.Dev&amp;type=ws#
+trojan://bpb-trojan@172.67.180.227:443?type=ws&amp;security=tls&amp;sni=mashdt.pages.dev&amp;host=mashdt.pages.dev&amp;path=/tr?ed=2560#%F0%9F%87%A9%F0%9F%87%AA%20t.me%2FNatrixo%20BB
+trojan://humanity@104.20.6.134:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.calmloud.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#v2ray_dalghak
+trojan://humanity@193.151.152.73:40443?path=%2Fassignment&amp;security=tls&amp;host=www.ignitelimit.com&amp;type=ws&amp;sni=www.ignitelimit.com#%40configmax
+trojan://humanity@2.144.2.245:40443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.ignitelimit.com#%40filembad
+trojan://humanity@2.144.22.10:40443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.creationlong.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.creationlong.org#XGvpn
+trojan://humanity@www.calmlunch.com:443?allowInsecure=1&amp;sni=www.calmlunch.com&amp;type=ws&amp;path=%2Fassignment#v2ray_dalghak

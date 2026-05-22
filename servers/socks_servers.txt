@@ -1,3 +1,4 @@
-socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw%3D%3D@91.222.196.8:7071#%F0%9F%A6%89%40FreeConfigForYou
-socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#@Hddify
-socks://dXNlcjE0OmVFMXRUYkIzcVE@mseu8.fastspeed.cfd:7854#%F0%9F%A6%89%40FreeConfigForYou
+socks://Og@171.22.24.184:1080#%40configmax
+socks://Og@178.131.140.103:1080#%40configmax
+socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#%40configmax
+socks://d2FudGVkOndhbnRlZA@188.121.119.248:9#%40configmax
