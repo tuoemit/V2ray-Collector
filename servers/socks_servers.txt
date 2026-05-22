@@ -1,4 +1,5 @@
-socks://Og%3D%3D@188.121.121.155:1090#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%20%40irconfi%20%D8%B1%D9%88%D8%A8%DB%8C%DA%A9%D8%A7%20%20%40wizardxray
-socks://Og@81.12.24.237:28419#%40v2ray_plusz
-socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#v2ray_plusz
-socks://dXNlcjE0OmVFMXRUYkIzcVE@mseu8.fastspeed.cfd:7854#%40Zed_NetMeli%20ViP
+socks://Og@171.22.24.184:1080#%40configmax
+socks://Og@178.131.140.103:1080#%40configmax
+socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw%3D%3D@91.222.196.8:7071#%F0%9F%87%AE%F0%9F%87%B727114%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#%40configmax
+socks://d2FudGVkOndhbnRlZA@188.121.119.248:9#%40configmax
