@@ -1,1 +1,2 @@
-socks://Og@109.122.252.86:1080#%40NormanV2ray
+socks://193.242.125.88:8052?type=tcp#%40v2ray_plusz
+socks://Og@109.122.252.86:1080#
