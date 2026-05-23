@@ -1,5 +1,12 @@
-socks://81.12.24.237:24507#%F0%9F%87%AE%F0%9F%87%B728166%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-socks://Og==@81.12.24.237:25497#%F0%9F%87%AE%F0%9F%87%B728289%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-socks://Og@81.12.24.237:25497#%40B2vasl1
-socks://Og@81.12.80.194:3030#
-socks://bnVsbDpudWxs@81.12.80.194:3030#%F0%9F%87%AE%F0%9F%87%B728222%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+socks://81.12.24.237:24507#%F0%9F%87%AE%F0%9F%87%B728215%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+socks://81.12.24.237:24507?type=tcp#v2ray_plusz
+socks://81.12.24.237:24885?type=tcp#v2ray_plusz
+socks://81.12.24.237:25497?type=tcp#v2ray_plusz
+socks://81.12.24.237:26118?type=tcp#v2ray_plusz
+socks://81.12.24.237:26754?type=tcp#v2ray_plusz
+socks://81.12.24.237:26933?type=tcpv2ray_plusz
+socks://81.12.24.237:29186?type=tcp#v2ray_plusz
+socks://Og==@81.12.24.237:25497#%F0%9F%87%AE%F0%9F%87%B728338%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+socks://Og@81.12.24.237:25497#%F0%9F%87%AE%F0%9F%87%B728220%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+socks://Og@81.12.80.194:3030#%40v2ray_plusz%20%F0%9F%91%88%F0%9F%93%BA%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C%20%D9%85%D8%A7
+socks://bnVsbDpudWxs@81.12.80.194:3030#%F0%9F%87%AE%F0%9F%87%B728271%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
