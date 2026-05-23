@@ -1,2 +1,6 @@
-socks://62.220.126.56:32129?type=tcp#%F0%9F%87%AE%F0%9F%87%B727902%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-socks://Og@109.122.252.86:1080#
+socks://62.220.126.56:32129?type=tcp#%F0%9F%87%AE%F0%9F%87%B727951%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+socks://Og%3D%3D@185.239.106.84:1449#
+socks://Og==@192.168.1.147:46597#ShirOKhorshid-MatinSenPIi
+socks://Og@109.122.252.86:1080#https://t.me/vasl_bashim
+socks://Og@85.133.217.119:10808#DA
+socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#
