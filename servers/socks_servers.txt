@@ -1,12 +1,4 @@
-socks://81.12.24.237:24507?type=tcp#v2ray_plusz
-socks://81.12.24.237:24885?type=tcp#v2ray_plusz
-socks://81.12.24.237:25497?type=tcp#v2ray_plusz
-socks://81.12.24.237:26118?type=tcp#v2ray_plusz
-socks://81.12.24.237:26754?type=tcp#v2ray_plusz
-socks://81.12.24.237:26933?type=tcpv2ray_plusz
-socks://81.12.24.237:29186?type=tcp#v2ray_plusz
-socks://Og==@121.169.46.116:1090#%E9%9F%A9%E5%9B%BD%28yudou789.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
-socks://Og@127.0.0.1:1080#@Shh_Proxy
-socks://Og@81.12.80.194:3030#%40v2ray_plusz%20%F0%9F%91%88%F0%9F%93%BA%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C%20%D9%85%D8%A7
-socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw%3D%3D@91.222.196.8:7071#%F0%9F%A6%89%40FreeConfigForYou
-socks://VDJjbE0wUWxNMFE2Og==@121.169.46.116:1090#%E9%9F%A9%E5%9B%BD%28yudou789.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+socks://81.12.24.237:32577?type=tcp#Telegram
+socks://Og%3D%3D@81.12.80.194:3030#%40V2rayNG_Cafe
+socks://Og==@81.12.24.237:25497#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%97%BE+prrofile_purple%40
+socks://Og@81.12.80.194:3030#
