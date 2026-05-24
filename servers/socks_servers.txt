@@ -1,5 +1,11 @@
-socks://45.147.76.238:10808?type=tcp#%F0%9F%87%AE%F0%9F%87%B728453%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-socks://Og==@81.12.24.237:25497#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%97%BE+prrofile_purple%40
-socks://Og@1.1.1.1:10808#%40ProxyVPN11
-socks://Og@188.121.104.170:4444#%F0%9F%87%AE%F0%9F%87%B728509%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-socks://Og@81.12.80.194:3030#@
+socks://45.147.76.238:10808?type=tcp#%F0%9F%87%AE%F0%9F%87%B728502%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+socks://81.12.24.237:24507?type=tcp#v2ray_plusz
+socks://81.12.24.237:24885?type=tcp#v2ray_plusz
+socks://81.12.24.237:25497?type=tcp#v2ray_plusz
+socks://81.12.24.237:26118?type=tcp#v2ray_plusz
+socks://81.12.24.237:26754?type=tcp#v2ray_plusz
+socks://81.12.24.237:26933?type=tcpv2ray_plusz
+socks://81.12.24.237:29186?type=tcp#v2ray_plusz
+socks://Og@188.121.104.170:4444#%F0%9F%87%AE%F0%9F%87%B728558%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+socks://Og@81.12.80.194:3030#
+socks://Og@proxyanonymous13.pahlavi.dpdns.org:1080#%40B2vasl1
