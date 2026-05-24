@@ -1,8 +1,1 @@
-socks://81.12.24.237:24507?type=tcp#v2ray_plusz
-socks://81.12.24.237:24885?type=tcp#v2ray_plusz
-socks://81.12.24.237:25497?type=tcp#v2ray_plusz
-socks://81.12.24.237:26118?type=tcp#v2ray_plusz
-socks://81.12.24.237:26754?type=tcp#v2ray_plusz
-socks://81.12.24.237:26933?type=tcpv2ray_plusz
-socks://81.12.24.237:29186?type=tcp#v2ray_plusz
-socks://Og@81.12.80.194:3030#%40v2ray_plusz%20%F0%9F%91%88%F0%9F%93%BA%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C%20%D9%85%D8%A7
+socks://Og@81.12.80.194:3030#%40FastNetTools
