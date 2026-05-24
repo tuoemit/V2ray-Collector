@@ -1,1 +1,2 @@
-socks://Og@81.12.80.194:3030#https://t.me/ConfigX2ray
+socks://Og@193.242.125.88:8052#
+socks://Og@81.12.80.194:3030#@UnNurmal
