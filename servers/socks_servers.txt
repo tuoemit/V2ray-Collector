@@ -1,1 +1,1 @@
-socks://Og@81.12.80.194:3030#@ProxyV2IR
+socks://Og@81.12.80.194:3030#@byiroh
