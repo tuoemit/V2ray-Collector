@@ -1,14 +1,3 @@
-socks://81.12.24.237:24507?type=tcp#v2ray_plusz
-socks://81.12.24.237:24885?type=tcp#v2ray_plusz
-socks://81.12.24.237:25497?type=tcp#v2ray_plusz
-socks://81.12.24.237:26118?type=tcp#v2ray_plusz
-socks://81.12.24.237:26754?type=tcp#v2ray_plusz
-socks://81.12.24.237:26933?type=tcpv2ray_plusz
-socks://81.12.24.237:29186?type=tcp#v2ray_plusz
-socks://Og==@81.12.24.237:25497#%F0%9F%87%AE%F0%9F%87%B728289%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-socks://Og@109.122.252.86:1080
-socks://Og@130.185.75.82:9595#%40KurdConfing%20%DA%A9%D9%88%D8%B1%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
-socks://Og@62.220.126.56:30170#%40KurdConfing%20%DA%A9%D9%88%D8%B1%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
-socks://Og@62.220.126.92:30871#%40KurdConfing%20%DA%A9%D9%88%D8%B1%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
-socks://Og@81.12.80.194:3030#%40config4k%20_%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-socks://Og@proxyanonymous13.pahlavi.dpdns.org:1080#%40B2vasl1
+socks://Og%3D%3D@81.12.80.194:3030#%40V2rayNG_Cafe
+socks://Og@109.122.252.86:1080#
+socks://Og@81.12.80.194:3030#
