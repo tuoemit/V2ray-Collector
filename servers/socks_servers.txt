@@ -1,8 +1,6 @@
-socks://93.113.230.143:10808?type=tcp#https://t.me/Configir98
-socks://Og%3D%3D@93.113.230.143:10808#azdeltaghalam7%F0%93%84%82%F0%93%86%83%F0%9F%8C%BF
-socks://Og@130.185.75.82:9595#%40KurdConfing%20%DA%A9%D9%88%D8%B1%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
-socks://Og@62.220.126.56:30170#%40KurdConfing%20%DA%A9%D9%88%D8%B1%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
-socks://Og@62.220.126.92:25864#%40Moft_Vpn
-socks://Og@62.220.126.92:30871#%40KurdConfing%20%DA%A9%D9%88%D8%B1%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
-socks://Og@81.12.24.160:26154#%40Moft_Vpn
-socks://Og@81.12.80.194:3030#%E2%9C%85%40v2r_ayorg
+socks://45.147.76.238:10808?type=tcp#%40vasl_bashim
+socks://93.113.230.143:10808?type=tcp#@vipV2rayNGnp
+socks://Og==@192.168.1.147:46597#ShirOKhorshid-MatinSenPIi
+socks://Og@62.220.126.92:25864#%40FastNetTools
+socks://Og@81.12.24.160:26154#%40FastNetTools
+socks://Og@81.12.80.194:3030#%40vasl_bashim
