@@ -1,3 +1,8 @@
-socks://Og@62.220.126.92:25864#proxy_kafee
-socks://Og@81.12.24.160:26154#2https://t.me/ConfigX2ray
-socks://Og@81.12.80.194:3030#
+socks://62.220.126.56:26442?type=tcp#VayNora
+socks://MToxMQ@185.121.131.11:443#VayNora
+socks://Og%3D%3D@91.222.196.8:7071#%F0%9F%87%AE%F0%9F%87%B729043%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+socks://Og==@81.12.24.237:25497#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%97%BE+prrofile_purple%40
+socks://Og@62.220.126.92:25864#%E2%9C%85%40v2r_ayorg
+socks://Og@81.12.24.160:26154#%E2%9C%85%40v2r_ayorg
+socks://Og@81.12.80.194:3030#%40Shomarrreh
+socks://Og@عددی
