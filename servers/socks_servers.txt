@@ -1,2 +1,1 @@
-socks://Og@62.220.126.92:25864#3https://t.me/ConfigX2ray
-socks://Og@81.12.24.160:26154#2https://t.me/ConfigX2ray
+socks://Og@193.151.149.247:8220#%40Config0plus%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C
