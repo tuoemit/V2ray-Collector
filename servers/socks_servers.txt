@@ -1,2 +1,2 @@
-socks://Og@2.144.21.154:16751#%40Config0plus%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%F0%9F%94%A5
+socks://Og@2.144.21.154:16751#3https://t.me/ConfigX2ray
 socks://Og@62.220.126.92:25864#%40Spartan_YT
