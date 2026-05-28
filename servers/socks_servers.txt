@@ -1,1 +1,3 @@
-socks://Og%3D%3D@2.144.21.154:16751#https%3A%2F%2Ft.me%2FV2ry_Proxy
+socks://Og@2.144.21.154:16751#3https://t.me/ConfigX2ray
+socks://Og@62.220.126.92:25864#%40Spartan_YT
+socks://Og@81.12.80.194:3030#%40i10VPN%20-%20Psiphon%2089
