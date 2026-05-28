@@ -1,11 +1,4 @@
-hysteria2://45a90d32-08bd-4dea-8345-f1f541cc7f90@hk02.jgpy.help:10085?insecure=1&sni=apple.com#A%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2006%20TG%3A%20%40nodpai
-hysteria2://9994536d-4824-45f9-bdc9-ccde0443f3fa@assgzl.hhwyy.xyz:35561?insecure=1&sni=assgzl.hhwyy.xyz#%E2%9B%B346%40oneclickvpnkeys
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world#B%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2008%20TG%3A%20%40nodpai
-hysteria2://auth@49.12.142.89:443?insecure=1&alpn=h3&sni=www.microsoft.com#outline_ir
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#Telegram%20%3A%20%40V2ynpv
-hysteria2://de72b066a61a39af@204.12.170.168:443?insecure=1&sni=claude.ai&obfs=salamander&obfs-password=726c9c641a068d74#%E2%9B%B349%40oneclickvpnkeys
-hysteria2://fe9b17e8-41e1-4d1b-b588-93a23665724f@136.0.42.119:2056?insecure=1&sni=mg5.mangshe.xyz#%E2%9B%B348%40oneclickvpnkeys
-hysteria2://fe9b17e8-41e1-4d1b-b588-93a23665724f@166.88.142.205:2056?insecure=1&sni=mg6.mangshe.xyz#%E2%9B%B347%40oneclickvpnkeys
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-002.fastervpn.world:443?insecure=1&sni=vpn-de-002.fastervpn.world#B%20-%20%F0%9F%87%A9%F0%9F%87%AA%20DE%2006%20TG%3A%20%40nodpai
-hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&amp;sni=dash.cloudflare.com#%F0%9F%90%8F80@oneclickvpnkeys
-hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#%F0%9F%90%8F80%40oneclickvpnkeys
+hysteria2://channel:Bu3eNYc5efAmgnWkbG9w@fiv4.alexanderoff.ru:443?sni=fiv4.alexanderoff.ru&amp;insecure=0#
+hysteria2://channel:HYyx9NmF3xpDbdyVP5hd@fi2.alexanderoff.ru:443?sni=fi2.alexanderoff.ru&amp;insecure=0#
+hysteria2://new:5U2kfHM5JHqqJE5j3cKA@fi2.alexanderoff.ru:443?sni=fi2.alexanderoff.ru&amp;insecure=0#
+hysteria2://qqqqqq:Wvu3SPFZQP2qVATBsz5V@fi2.alexanderoff.ru:443?sni=fi2.alexanderoff.ru&amp;insecure=0#
