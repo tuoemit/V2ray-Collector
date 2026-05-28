@@ -1,4 +1,8 @@
-socks5://127.0.0.1:1080
-socks5://myproxy.com:3128
-socks5://user-session-{sid}:pass@host:port
-socks5://user:pass@host:port
+socks5://...
+socks5://127.0.0.1:10808
+socks5://127.0.0.1:40008
+socks5://193.24.222.150:33500
+socks5://206.123.156.225:6874
+socks5://78.63.115.20:8899
+socks5://82.193.116.160:21003
+socks5://user:pass@ip:port

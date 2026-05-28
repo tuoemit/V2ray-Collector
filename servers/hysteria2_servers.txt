@@ -1,1 +1,11 @@
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-002.fastervpn.world:443?security=tls&amp;insecure=1&amp;sni=vpn-de-002.fastervpn.world#%F0%9F%AB%9C41%40proxy_kafee
+hysteria2://6d49fae1-374d-313e-b360-1227b0ea8dea@150.129.10.140:443?sni=u712032us614.ccgfw.online&alpn=h3&mport=30000-32000&hopinterval=30s#%E6%9C%AA%E7%9F%A5%20HY2-1557%20%7C%20free-nodes
+hysteria2://6d49fae1-374d-313e-b360-1227b0ea8dea@[2a04:52c0:139:ea24:13b7:8f0a:5c2e:d649]:443?sni=u712032uipv6s618.ccgfw.online&alpn=h3&mport=30000-32000&hopinterval=30s#%E6%9C%AA%E7%9F%A5%20HY2-1540%20%7C%20free-nodes
+hysteria2://6d49fae1-374d-313e-b360-1227b0ea8dea@s473.okgfw.top:443?sni=u712032us473.okgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#%E6%9C%AA%E7%9F%A5%20HY2-1573%20%7C%20free-nodes
+hysteria2://6d49fae1-374d-313e-b360-1227b0ea8dea@s545.ccgfw.online:443?sni=u712032us545.ccgfw.online&alpn=h3&mport=30000-32000&hopinterval=30s#US%20HY2-1587%20%7C%20free-nodes
+hysteria2://6d49fae1-374d-313e-b360-1227b0ea8dea@s663.ccgfw.top:443?sni=u712032us663.ccgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#DE%20HY2-1565%20%7C%20free-nodes
+hysteria2://6d49fae1-374d-313e-b360-1227b0ea8dea@s667.ccgfw.top:443?sni=u712032us667.ccgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#DE%20HY2-1552%20%7C%20free-nodes
+hysteria2://6d49fae1-374d-313e-b360-1227b0ea8dea@s844.ccgfw.top:443?sni=u712032us844.ccgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#US%20HY2-1560%20%7C%20free-nodes
+hysteria2://6d49fae1-374d-313e-b360-1227b0ea8dea@s888.okgfw.top:443?sni=u712032us888.okgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#%E6%9C%AA%E7%9F%A5%20HY2-1577%20%7C%20free-nodes
+hysteria2://6d49fae1-374d-313e-b360-1227b0ea8dea@s893.ayxj.top:443?sni=u712032us893.ayxj.top&alpn=h3&mport=30000-32000&hopinterval=30s#US%20HY2-1569%20%7C%20free-nodes
+hysteria2://6d49fae1-374d-313e-b360-1227b0ea8dea@s896.ayxj.top:443?sni=u712032us896.ayxj.top&alpn=h3&mport=30000-32000&hopinterval=30s#US%20HY2-1579%20%7C%20free-nodes
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-002.fastervpn.world:443/?insecure=1&amp;sni=vpn-de-002.fastervpn.world#%F0%9F%AB%9C41@oneclickvpnkeys
