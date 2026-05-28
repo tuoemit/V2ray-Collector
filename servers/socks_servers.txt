@@ -1,2 +1,1 @@
-socks://62.220.126.56:26442?type=tcp#%40v2ray_configs_pools
-socks://Og@45.94.213.213:443#%40v2ray_configs_pools
+socks://Og@2.144.21.154:16751#3https://t.me/ConfigX2ray
