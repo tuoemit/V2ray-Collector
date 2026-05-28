@@ -1,1 +1,1 @@
-socks://Og@2.144.21.154:16751#3https://t.me/ConfigX2ray
+socks://#name

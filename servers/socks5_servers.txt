@@ -1,2 +1,4 @@
-socks5://121.169.46.116:1090#socks%201%20-%202694
-socks5://lu-lux.pvdata.host:1080#socks%202%20-%202695
+socks5://127.0.0.1:1080
+socks5://myproxy.com:3128
+socks5://user-session-{sid}:pass@host:port
+socks5://user:pass@host:port
