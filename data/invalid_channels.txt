@@ -1,8 +1,9 @@
-Invalid Telegram Channels — 2026-05-28T00:52:32.188306+00:00
+Invalid Telegram Channels — 2026-05-28T01:19:29.934532+00:00
 
 antifilterjadid
 chat_nakone
 chatnakonvaslshimdark
+crayingroom
 https_config_injector
 ip_cf_config
 letsproxys1

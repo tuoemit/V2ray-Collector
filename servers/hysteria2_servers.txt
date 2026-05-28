@@ -1,5 +1,1 @@
-hysteria2://39c2e591-2ebe-4a6f-bea4-803783cd5183@sg03.459292.xyz:8080?fm=%257B%250A%2520%2520%2522quicParams%2522%2520:%2520%257B%250A%2520%2520%2520%2520%2522congestion%2522%2520:%2520%2522brutal%2522%250A%2520%2520%257D%250A%257D&amp;type=hysteria&amp;security=tls&amp;sni=sg03.459292.xyz&amp;alpn=h3&amp;fp=chrome&amp;allowInsecure=1&amp;echfq=none#En_Vpn
-hysteria2://channel:Bu3eNYc5efAmgnWkbG9w@fiv4.alexanderoff.ru:443?sni=fiv4.alexanderoff.ru&amp;insecure=0#
-hysteria2://channel:HYyx9NmF3xpDbdyVP5hd@fi2.alexanderoff.ru:443?sni=fi2.alexanderoff.ru&amp;insecure=0#
-hysteria2://new:5U2kfHM5JHqqJE5j3cKA@fi2.alexanderoff.ru:443?sni=fi2.alexanderoff.ru&amp;insecure=0#
-hysteria2://qqqqqq:Wvu3SPFZQP2qVATBsz5V@fi2.alexanderoff.ru:443?sni=fi2.alexanderoff.ru&amp;insecure=0#
+hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&amp;sni=dash.cloudflare.com#%F0%9F%90%8F80@oneclickvpnkeys
