@@ -1,1 +1,2 @@
-socks://Og@62.220.126.92:25864#%40Spartan_YT
+socks://62.220.126.56:26442?type=tcp#%40v2ray_configs_pools
+socks://Og@45.94.213.213:443#%40v2ray_configs_pools
