@@ -1,10 +1,1 @@
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@de-by10fuo0kw.9966690.xyz:40000?insecure=1&obfs=salamander&obfs-password=YzgyOTowNDk4ZTU2NTdiNA==#A%20-%20%F0%9F%87%A9%F0%9F%87%AA%20DE%2001%20TG%3A%20%40nodpai
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@fr.9966690.xyz:40000?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk42TU23T365A==#B%20-%20%F0%9F%87%AB%F0%9F%87%B7%20FR%2001%20TG%3A%20%40nodpai
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@sg.9966690.xyz:10000?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTd65A==#C%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2006%20TG%3A%20%40nodpai
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@sg.9966690.xyz:50000?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTd65A==#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2004%20TG%3A%20%40nodpai
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@usp-hdl9n8ovau.9966690.xyz:20000?insecure=1&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#B%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2001%20TG%3A%20%40nodpai
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@vn.9966690.xyz:40000?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk40TU2NTdiNA==#B%20-%20%F0%9F%87%BB%F0%9F%87%B3%20VN%2001%20TG%3A%20%40nodpai
-hysteria2://auth@49.12.142.89:443?insecure=1&alpn=h3&sni=www.microsoft.com#outline_ir
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40KAFING_2
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40KAFING_2%20%232
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?insecure=1&sni=hy2.123266.xyz#APPXA-SI
+hysteria2://BMmGlfFVF7@speedtest.mozit.site:46425/?insecure=1&amp;obfs=salamander&amp;obfs-password=welovegod&amp;sni=mci.ir#%F0%9F%8C%9D44@oneclickvpnkeys
