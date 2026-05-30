@@ -1,5 +1,8 @@
-hysteria2://BMmGlfFVF7@speedtest.mozit.site:46425?insecure=1&sni=mci.ir&obfs=salamander&obfs-password=welovegod#%F0%9F%8C%9D44%40oneclickvpnkeys
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@tw.9966690.xyz:40000?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NT6iNA==#A%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2001%20TG%3A%20%40nodpai
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40KAFING_2
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40KAFING_2%20%232
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?insecure=1&sni=hy2.123266.xyz#%40filembad
+hysteria2://MVSAWYY3Ip@138.124.182.202:50790?security=tls&amp;fp=chrome&amp;alpn=h3&amp;sni=latviyaotpusk1.home.kg#Hysteriya_Latviya-(https%3A%2F%2Ft.me%2Fvpn_amneziya_hiddify%7D
+hysteria2://MnStv7w59i@193.168.197.76:55525?security=tls&amp;fp=chrome&amp;alpn=h3&amp;ech=AGf%2BDQBjAAAgACDLMZKCy5p%2Fuqz%2BK8gEY6%2FKjKNVONirsi36EOFXCCPuBwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABRzd2VkZW5vdHB1c2suaG9tZS5rZwAA&amp;sni=swedenotpusk.home.kg#Hysteriya_Sweden_2-gmfopvad
+hysteria2://channel:Bu3eNYc5efAmgnWkbG9w@fiv4.alexanderoff.ru:443?sni=fiv4.alexanderoff.ru&amp;insecure=0#
+hysteria2://channel:HYyx9NmF3xpDbdyVP5hd@fi2.alexanderoff.ru:443?sni=fi2.alexanderoff.ru&amp;insecure=0#
+hysteria2://jOIItw1h4D@138.124.182.202:8443?security=tls&amp;fp=chrome&amp;alpn=h3&amp;ech=AGn%2BDQBlAAAgACBlteok0V12sE%2BMMCVOyuBuHJ96EjM5qY9eeQB9uO8kYQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABZsYXR2aXlhb3RwdXNrMS5ob21lLmtnAAA%3D&amp;sni=latviyaotpusk1.home.kg#Hysteriya_Latviya%20-2-p49k4ljb
+hysteria2://new:5U2kfHM5JHqqJE5j3cKA@fi2.alexanderoff.ru:443?sni=fi2.alexanderoff.ru&amp;insecure=0#
+hysteria2://pcxNwi6pHM@193.168.197.76:22838?security=tls&amp;fp=chrome&amp;alpn=h3&amp;ech=AGf%2BDQBjAAAgACCWjwYPxLeJEmy9PBLCCmLR%2FrzF3UBZgKB8GUJhMptdDQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABRzd2VkZW5vdHB1c2suaG9tZS5rZwAA&amp;sni=swedenotpusk.home.kg#Hysteriya_Sweden_1-https%3A%2F%2Ft.me%2Fvpn_amneziya_hiddify
+hysteria2://qqqqqq:Wvu3SPFZQP2qVATBsz5V@fi2.alexanderoff.ru:443?sni=fi2.alexanderoff.ru&amp;insecure=0#
