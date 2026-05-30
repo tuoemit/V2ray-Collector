@@ -1,2 +1,4 @@
-hysteria2://0e76e8df-47d7-4eee-b272-d190807d772e@3.79.27.109:37994?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;hiddify=1&amp;obfs=salamander&amp;obfs-password=XWZzbPsMSRfz&amp;sni=&amp;insecure=1&amp;allow_insecure=1#@GozargahAzad|
-hysteria2://0e76e8df-47d7-4eee-b272-d190807d772e@3.79.27.109:37994?hiddify=1&amp;obfs=salamander&amp;obfs-password=XWZzbPsMSRfz&amp;sni=3.79.27.109&amp;insecure=1&amp;allow_insecure=1#%40filembad
+hysteria2://91lsqgw8jx8o442n@83.143.112.143:8443?alpn=h3&amp;fp=chrome&amp;security=tls&amp;sni=83.143.112.143#russ2-r2
+hysteria2://channel:Bu3eNYc5efAmgnWkbG9w@fiv4.alexanderoff.ru:443?sni=fiv4.alexanderoff.ru&amp;insecure=0#
+hysteria2://channel:HYyx9NmF3xpDbdyVP5hd@fi2.alexanderoff.ru:443?sni=fi2.alexanderoff.ru&amp;insecure=0#
+hysteria2://new:5U2kfHM5JHqqJE5j3cKA@fi2.alexanderoff.ru:443?sni=fi2.alexanderoff.ru&amp;insecure=0#
