@@ -416,9 +416,17 @@ def normalize_generic(raw: str, scheme_in: str) -> tuple[Optional[str], Optional
     if not scheme:
         return None, None
 
+    # parsed.port can raise ValueError if the port is malformed, for example:
+    # vless://user@host:…
+    # In that case we should not crash the whole job.
+    try:
+        port = parsed.port
+    except ValueError:
+        logger.warning("Skipping invalid URI with bad port: %s", raw)
+        return None, None
+
     userinfo = parsed.username or ""
     host = parsed.hostname or ""
-    port = parsed.port
     path = parsed.path or ""
     query_pairs = canonical_query_pairs(parsed.query)
 
