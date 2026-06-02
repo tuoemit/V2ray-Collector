@@ -1,1 +1,6 @@
-socks://Og%3D%3D@5.255.99.75:1080#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20132012
+socks://Og@130.185.75.82:9595#V2rayNG3
+socks://Og@62.220.126.56:30170#V2rayNG3
+socks://Og@62.220.126.92:30376#V2rayNG3
+socks://Og@87.107.155.141:1080#@v2rayng3
+socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#@v2rayng3
+socks://bnVsbDpudWxs@62.220.126.92:30871#V2rayNG3
