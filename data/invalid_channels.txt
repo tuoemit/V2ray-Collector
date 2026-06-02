@@ -1,6 +1,7 @@
-Invalid Telegram Channels — 2026-06-01T23:54:09.081095+00:00
+Invalid Telegram Channels — 2026-06-02T00:10:51.595921+00:00
 
 zenith_vpn
+servernett
 drvpn7
 black_star_vpn
 drovone
