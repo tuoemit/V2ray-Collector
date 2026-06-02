@@ -1,4 +1,4 @@
-hysteria2://Masir_Sefid@18.159.66.5:443?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%40config4k%20_%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-hysteria2://exernr797y2dvxrb@18.159.66.5:8880?security=tls&amp;obfs=salamander&amp;obfs-password=JynMarket&amp;insecure=0&amp;sni=cdn.pedramdns.shop#2_Telegram@PAYAM_NSI
-hysteria2://lmtmpdlj9ojwu2iw@18.159.66.5:444?security=tls&amp;obfs=salamander&amp;obfs-password=JynMarket&amp;insecure=0&amp;sni=cdn.pedramdns.shop#1_Telegram@PAYAM_NSI
-hysteria2://qqqqqq:Wvu3SPFZQP2qVATBsz5V@fi2.alexanderoff.ru:443?sni=fi2.alexanderoff.ru&amp;insecure=0#
+hysteria2://Masir_Sefid@18.157.205.223:4040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
+hysteria2://Masir_Sefid@18.159.66.5:443?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%40erfanandroid
+hysteria2://Masir_Sefid@18.185.89.204:4040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#@vmesskhodam
+hysteria2://Masir_Sefid@18.194.238.82:443?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qus.masir-sefid.shop#%40erfanandroid
