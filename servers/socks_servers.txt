@@ -1,11 +1,1 @@
-socks://45.147.76.238:10808?type=tcp#
-socks://Og@130.185.75.82:9595#V2rayNG3
-socks://Og@62.220.126.56:30170#V2rayNG3
-socks://Og@62.220.126.92:30376#V2rayNG3
-socks://Og@87.107.155.141:1080#@v2rayng3
-socks://Og@94.182.134.187:7073#
-socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#@v2rayng3
-socks://YVhqZ1dpTTc6ZFNOZDd6UnY@104.243.41.54:10000#
-socks://bnVsbDpudWxs@62.220.126.92:30871#V2rayNG3
-socks://telegram-confixio@193.151.149.247:8220#%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%43%6F%6E%66%69%78%69%6F%40
-socks://telegram-confixio@proxyanonymous13.pahlavi.dpdns.org:1080#%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%43%6F%6E%66%69%78%69%6F%40
+socks://YVhqZ1dpTTc6ZFNOZDd6UnY@104.243.41.54:10000#Twy
