@@ -1,2 +1,3 @@
-hysteria2://Masir_Sefid@18.157.222.169:1040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=free.masir-sefid.shop#ConfigV2RayNG
-hysteria2://masir_sefid@18.157.51.145:443?security=tls&amp;obfs=salamander&amp;obfs-password=masir_sefid&amp;insecure=0&amp;mport=443%2C2053%2C2083%2C2087%2C2096%2C8443&amp;sni=content.masir-sefid.shop#TELEGRAM%3A%40ConfigV2RayNG
+hysteria2://91lsqgw8jx8o442n@83.143.112.143:8443?alpn=h3&amp;fp=chrome&amp;security=tls&amp;sni=83.143.112.143#russ2-r2
+hysteria2://channel:Bu3eNYc5efAmgnWkbG9w@fiv4.alexanderoff.ru:443?sni=fiv4.alexanderoff.ru&amp;insecure=0#
+hysteria2://new:5U2kfHM5JHqqJE5j3cKA@fi2.alexanderoff.ru:443?sni=fi2.alexanderoff.ru&amp;insecure=0#
