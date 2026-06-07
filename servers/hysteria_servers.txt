@@ -1,1 +1,1 @@
-hysteria://5.83.129.90:54177?alpn=h3&auth_str=dongtaiwang.com&downmbps=1000&obfsParam=&protocol=udp&insecure=1&peer=apple.com&upmbps=500#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20364053
+hysteria://5.83.129.153:20088?alpn=h3&amp;auth=dongtaiwang.com&amp;downmbps=1000&amp;protocol=udp&amp;insecure=1&amp;peer=apple.com&amp;upmbps=500#%F0%9F%87%A9%F0%9F%87%AADE_2%7C842KB%2Fs
