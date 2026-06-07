@@ -1,14 +1,3 @@
-hysteria2://0xver2tkqad4kvr4@134.122.86.55:443/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;obfs=salamander&amp;obfs-password=https%3A%2F%2Fspeed.cloudflare.com&amp;sni=xuipanel.akgoldvip.shop#@GozargahAzad|
-hysteria2://0xver2tkqad4kvr4@134.122.86.55:443/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;obfs=salamander&amp;obfs-password=https%3A%2F%2Fspeed.cloudflare.com&amp;sni=xuipanel.akgoldvip.shop#
-hysteria2://0xver2tkqad4kvr4@134.122.86.55:443/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;obfs=salamander&amp;obfs-password=https%3A%2F%2Fspeed.cloudflare.com&amp;sni=xuipanel.akgoldvip.shop#
-hysteria2://0xver2tkqad4kvr4@134.122.86.55:443/?obfs=salamander&amp;obfs-password=https%3A%2F%2Fspeed.cloudflare.com&amp;sni=xuipanel.akgoldvip.shop#
-hysteria2://0xver2tkqad4kvr4@134.122.86.55:443?security=tls&amp;obfs=salamander&amp;obfs-password=https%3A%2F%2Fspeed.cloudflare.com&amp;insecure=0&amp;sni=xuipanel.akgoldvip.shop#@meliproxyy
-hysteria2://91lsqgw8jx8o442n@83.143.112.143:8443?alpn=h3&amp;fp=chrome&amp;security=tls&amp;sni=83.143.112.143#russ2-r2
-hysteria2://Masir_Sefid@18.157.222.169:1040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=free.masir-sefid.shop#@meliproxyy
-hysteria2://Masir_Sefid@18.157.222.169:44044?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=free.masir-sefid.shop#@meliproxyy
-hysteria2://Masir_Sefid@18.157.222.169:54040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=free.masir-sefid.shop#@meliproxyy
-hysteria2://Masir_Sefid@18.157.222.169:8880?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=free.masir-sefid.shop#@meliproxyy
-hysteria2://b880e510-8196-44bb-b715-781a9461b4a0@aestheticperforator.ru:8443?security=tls&amp;insecure=0&amp;sni=aestheticperforator.ru#%F0%9F%87%B8%F0%9F%87%AA54087%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@89.167.25.28:11004/?sni=fi-node.farnet.top#%F0%9F%93%8081@oneclickvpnkeys
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.29.98:64772/?insecure=1&amp;sni=bing.com#%F0%9F%93%8077@oneclickvpnkeys
-hysteria2://rstnnl2705%3AZmRjX7MkeEqZ5GQUIT5VO53ARuy6nrmQ@144.31.224.163:8932/?insecure=1&amp;obfs=salamander&amp;obfs-password=CvxXZnSth1bVJKGFP2cof4rI52ifHJ2W&amp;sni=nrealistic.nn-foto.ru#%F0%9F%93%8087@oneclickvpnkeys
+hysteria2://0xver2tkqad4kvr4@134.122.86.55:443?security=tls&amp;obfs=salamander&amp;obfs-password=https%3A%2F%2Fspeed.cloudflare.com&amp;insecure=0&amp;sni=xuipanel.akgoldvip.shop#telegram%20%40mtmvpn
+hysteria2://Masir_Sefid@18.157.222.169:8880?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=free.masir-sefid.shop#telegram%20%40mtmvpn
+hysteria2://b880e510-8196-44bb-b715-781a9461b4a0@aestheticperforator.ru:8443?security=tls&amp;insecure=0&amp;sni=aestheticperforator.ru#%F0%9F%87%B8%F0%9F%87%AA54136%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
