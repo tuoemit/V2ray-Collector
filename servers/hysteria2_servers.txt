@@ -1,3 +1,1 @@
-hysteria2://0xver2tkqad4kvr4@134.122.86.55:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;security=tls&amp;obfs=salamander&amp;obfs-password=https%3A%2F%2Fspeed.cloudflare.com&amp;insecure=0&amp;sni=xuipanel.akgoldvip.shop#@GozargahAzad|
-hysteria2://0xver2tkqad4kvr4@134.122.86.55:443?security=tls&amp;obfs=salamander&amp;obfs-password=https%3A%2F%2Fspeed.cloudflare.com&amp;insecure=0&amp;sni=xuipanel.akgoldvip.shop#
-hysteria2://b880e510-8196-44bb-b715-781a9461b4a0@aestheticperforator.ru:8443?security=tls&amp;insecure=0&amp;sni=aestheticperforator.ru#%F0%9F%87%B8%F0%9F%87%AA54136%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://b880e510-8196-44bb-b715-781a9461b4a0@aestheticperforator.ru:8443?security=tls&amp;insecure=0&amp;sni=aestheticperforator.ru#%F0%9F%87%B8%F0%9F%87%AA54087%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
