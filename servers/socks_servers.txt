@@ -1,1 +1,1 @@
-socks://telegram-confixio@193.151.149.247:8220#%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%43%6F%6E%66%69%78%69%6F%40
+socks://Og@127.0.0.1:8080#Nipo
