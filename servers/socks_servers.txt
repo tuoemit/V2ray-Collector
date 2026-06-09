@@ -1,4 +1,6 @@
-socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@fi-esp.pvdata.host:1080#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki%2C%20FI%20%7C%20SOCKS%20%7C%20fi-esp.pvdata.host%3A1080
-socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@lu-lux.pvdata.host:1080?note=@FreeOnlineVPN#%F0%9F%87%B1%F0%9F%87%BA%20Luxembourg%2C%20LU%20%7C%20SOCKS%20%7C%20lu-lux.pvdata.host%3A1080
-socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@pl-tor.pvdata.host:1080#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20SOCKS%20%7C%20pl-tor.pvdata.host%3A1080
-socks://telegram-confixio@193.151.149.247:8220#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%7C%20SOCKS%20%7C%20193.151.149.247%3A8220
+socks://Og@130.185.75.82:9595#V2rayNG3
+socks://Og@62.220.126.56:30170#V2rayNG3
+socks://Og@62.220.126.92:30376#V2rayNG3
+socks://Og@87.107.155.141:1080#@v2rayng3
+socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#@v2rayng3
+socks://bnVsbDpudWxs@62.220.126.92:30871#V2rayNG3
