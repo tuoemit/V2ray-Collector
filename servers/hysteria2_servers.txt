@@ -1,8 +1,5 @@
-hysteria2://Masir_Sefid@206.189.58.246:1040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=Api1.masir-sefid-1.my#@meliproxyy
-hysteria2://Masir_Sefid@206.189.58.246:2053?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=Api1.masir-sefid-1.my#@meliproxyy
-hysteria2://Masir_Sefid@206.189.58.246:2087?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=Api1.masir-sefid-1.my#@meliproxyy
-hysteria2://Masir_Sefid@206.189.58.246:4040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=Api1.masir-sefid-1.my#@meliproxyy
-hysteria2://Masir_Sefid@206.189.58.246:443?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=Api1.masir-sefid-1.my#@meliproxyy
-hysteria2://Masir_Sefid@206.189.58.246:54040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=Api1.masir-sefid-1.my#@meliproxyy
-hysteria2://Masir_Sefid@206.189.58.246:8443?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=Api1.masir-sefid-1.my#@meliproxyy
-hysteria2://Masir_Sefid@84.234.29.238:443?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;mport=443-20000%2C40000-50000&amp;sni=Api.masir-sefid-1.my#%40filembad
+hysteria2://%40Masir_Sefid@18.157.222.169:443?obfs=salamander&amp;obfs-password=Masir_Sefid&amp;sni=free.masir-sefid.shop&amp;insecure=0#TEL@V2RAYNG_IP
+hysteria2://%40Masir_Sefid@18.157.222.169:444?obfs=salamander&amp;obfs-password=Masir_Sefid&amp;sni=free.masir-sefid.shop&amp;insecure=0#TEL:@V2RAYNG_IP
+hysteria2://91lsqgw8jx8o442n@83.143.112.143:8443?alpn=h3&amp;fp=chrome&amp;security=tls&amp;sni=83.143.112.143#russ2-r2
+hysteria2://Masir_Sefid@84.234.29.238:443?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;mport=443-20000%2C40000-50000&amp;sni=Api.masir-sefid-1.my#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%E2%8F%B1628ms%20%7C%20%E2%9A%A11.2MB%2Fs%20%7C%20%40NamazVPN
+hysteria2://masir_sefid@18.157.51.145:443?obfs=salamander&amp;obfs-password=masir_sefid&amp;sni=content.masir-sefid.shop&amp;insecure=0#TEL:@V2RAYNG_IP
