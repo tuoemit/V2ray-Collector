@@ -1,6 +1,5 @@
-hysteria2://%40Masir_Sefid@18.157.222.169:443?obfs=salamander&amp;obfs-password=Masir_Sefid&amp;sni=free.masir-sefid.shop&amp;insecure=0#TEL@V2RAYNG_IP
-hysteria2://%40Masir_Sefid@18.157.222.169:444?obfs=salamander&amp;obfs-password=Masir_Sefid&amp;sni=free.masir-sefid.shop&amp;insecure=0#TEL:@V2RAYNG_IP
-hysteria2://4543ebb9-3fa5-438d-8791-cb3d9a9e4137@us3.xiaoliyu.cyou:4433/?insecure=1#%F0%9F%AA%AC41@oneclickvpnkeys
-hysteria2://Masir_Sefid@37.156.46.29:443?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;mport=443%2C20000-56000&amp;sni=api.masir-sefid-1.my#
-hysteria2://masir_sefid@18.157.51.145:443?obfs=salamander&amp;obfs-password=masir_sefid&amp;sni=content.masir-sefid.shop&amp;insecure=0#TEL:@V2RAYNG_IP
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443/?obfs=salamander&amp;obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#%F0%9F%AA%AC70@oneclickvpnkeys
+hysteria2://0h34hk9ah8ey85zs@sv.zibayeman.com:27949?security=tls&amp;obfs=salamander&amp;obfs-password=d54vx0idiml7cv88&amp;insecure=0&amp;sni=sv.zibayeman.com#%40filembad
+hysteria2://Masir_Sefid@206.189.58.246:1040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=Api1.masir-sefid-1.my#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+hysteria2://Masir_Sefid@206.189.58.246:2053?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=Api1.masir-sefid-1.my#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+hysteria2://Masir_Sefid@206.189.58.246:8443?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=Api1.masir-sefid-1.my#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+hysteria2://Vitamini_Channel@cdn.accuratenetworkchecker.ir:59095?security=tls&amp;obfs=salamander&amp;obfs-password=ao5xmpi6qiedxrs2&amp;insecure=1&amp;sni=cdn.accuratenetworkchecker.ir#
