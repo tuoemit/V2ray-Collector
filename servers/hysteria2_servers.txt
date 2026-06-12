@@ -1,3 +1,4 @@
-hysteria2://%40Masir_Sefid@18.157.222.169:443?obfs=salamander&amp;obfs-password=Masir_Sefid&amp;sni=free.masir-sefid.shop&amp;insecure=0#TEL@V2RAYNG_IP
-hysteria2://%40Masir_Sefid@18.157.222.169:444?obfs=salamander&amp;obfs-password=Masir_Sefid&amp;sni=free.masir-sefid.shop&amp;insecure=0#TEL:@V2RAYNG_IP
-hysteria2://masir_sefid@18.157.51.145:443?obfs=salamander&amp;obfs-password=masir_sefid&amp;sni=content.masir-sefid.shop&amp;insecure=0#TEL:@V2RAYNG_IP
+hysteria2://Masir_Sefid@65.109.216.181:1040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qs.masir-sefid.shop#%40NOFILTERING2%20%F0%9F%9A%80
+hysteria2://Masir_Sefid@65.109.216.181:443?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qs.masir-sefid.shop#%40NOFILTERING2%20%F0%9F%9A%80
+hysteria2://Masir_Sefid@65.109.216.181:444?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qs.masir-sefid.shop#%40NOFILTERING2%20%F0%9F%9A%80
+hysteria2://Masir_Sefid@65.109.216.181:8880?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=qs.masir-sefid.shop#%40NOFILTERING2%20%F0%9F%9A%80
