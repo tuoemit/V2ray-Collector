@@ -1,1 +1,1 @@
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@de-fra.pvdata.host:1080#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20mtmvpn
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@de-fra.pvdata.host:1080#
