@@ -1,1 +1,1 @@
-hysteria2://rmmx0x6kmwwppf6i@109.237.98.81:443?alpn=h3&amp;fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%225i4ciuz6d1431zbt%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&amp;fp=firefox&amp;obfs=salamander&amp;obfs-password=5i4ciuz6d1431zbt&amp;security=tls&amp;sni=109.237.98.81#
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433/?insecure=1&amp;sni=de1.xiaoliyu.cyou#%F0%9F%90%8A44@v2ray_configs_pools
