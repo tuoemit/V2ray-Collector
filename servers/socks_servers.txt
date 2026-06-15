@@ -1,3 +1,1 @@
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0%3D@de-fra.pvdata.host:1080#azdeltaghalam7%F0%93%84%82%F0%93%86%83
-socks://bkVQV3NzZVZpOkVwaXI5eExqZg@193.93.168.145:64507#%40FastNetTools%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 socks://bkVQV3NzZVZpOkVwaXI5eExqZg@193.93.168.145:64507?type=tcp#@meliproxyy
