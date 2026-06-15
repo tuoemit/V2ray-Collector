@@ -1,2 +1,1 @@
-hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443/?obfs=salamander&amp;obfs-password=EsimObfs_9mK2x7&amp;sni=se.esimpson.org#%F0%9F%A6%95100@oneclickvpnkeys
-hysteria2://rmmx0x6kmwwppf6i@109.237.98.81:443?alpn=h3&amp;fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%225i4ciuz6d1431zbt%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&amp;fp=firefox&amp;obfs=salamander&amp;obfs-password=5i4ciuz6d1431zbt&amp;security=tls&amp;sni=109.237.98.81#
+hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&amp;obfs=salamander&amp;obfs-password=EsimObfs_9mK2x7&amp;insecure=0&amp;sni=se.esimpson.org#%40V2rayNGVPN%20%3E%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
