@@ -1,3 +1,4 @@
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@pl-tor.pvdata.host:1080#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-socks://bkVQV3NzZVZpOkVwaXI5eExqZg@193.93.168.145:64507#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-socks://bkVQV3NzZVZpOkVwaXI5eExqZg@193.93.168.145:64507?type=tcp#@meliproxyy
+socks://TV9ZT1VfRDpQcml2YXRl@us7.cactussstp.com:1080#telegram%20%40mtmvpn
+socks://TV9ZT1VfRDpQcml2YXRl@us9.cactussstp.com:1080#telegram%20%40mtmvpn
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@de-fra.pvdata.host:1080#%40TEHRANARGO
+socks://bkVQV3NzZVZpOkVwaXI5eExqZg@193.93.168.145:64507#%40vmesskhodam
