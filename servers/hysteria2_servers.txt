@@ -1,2 +1,1 @@
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433/?sni=de1.xiaoliyu.cyou#%F0%9F%8F%9F%EF%B8%8F46@oneclickvpnkeys
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-002.fastervpn.world:443/?insecure=1#%F0%9F%8F%9F%EF%B8%8F47@oneclickvpnkeys
+hysteria2://odnvqb4ihg396e5z@104.252.19.102:54040?security=tls&amp;obfs=salamander&amp;alpn=h3&amp;obfs-password=%40JynMarket&amp;insecure=0&amp;sni=104.252.19.102#%40Vpn_jet7
