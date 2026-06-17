@@ -1,4 +1,5 @@
-socks://TV9ZT1VfRDpQcml2YXRl@us7.cactussstp.com:1080#@bored_vpn
-socks://TV9ZT1VfRDpQcml2YXRl@us9.cactussstp.com:1080#telegram
-socks://U2ticVF5VGc6VjJSYXl5Tkd2cG4@5.161.158.18:2083#
-socks://YmVpdGVuMzkzOjEyMw@2.180.23.229:3030#%F0%9F%94%B0%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
+socks://#Anonymous
+socks://Og==@121.169.46.116:1090#KR%E9%9F%A9%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+socks://Og@121.169.46.116:1090#%E9%9F%93%E5%9C%8B%E4%B8%A8yoyapai.com
+socks://TV9ZT1VfRDpQcml2YXRl@us7.cactussstp.com:1080#@confiig_hub
+socks://VDJjbE0wUWxNMFE2Og@121.169.46.116:1090#%E9%9F%93%E5%9C%8B%E4%B8%A8yoyapai.com
