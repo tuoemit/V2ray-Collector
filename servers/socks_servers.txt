@@ -1,2 +1,8 @@
-socks://5.74.130.199:10808#%F0%9F%87%A9%F0%9F%87%AAGermany%20%7C%20IP%3A%202a01%3A239%3A3ac%3A8000%3A%3A1%20%7C%20ping%3A2349ms%20%7C%20%40NamazVPN
-socks://5.74.154.63:10808#%F0%9F%87%A9%F0%9F%87%AAGermany%2C%20Limburg%20an%20der%20Lahn%20%7C%20IP%3A%20178.83.46.237%20%7C%20ping%3A363ms%20%7C%20%40NamazVPN
+socks://MklMTG1aTVBoM2VreDRwYmR4NWJkbjhUOlRlbDZAU29vblRlYW0@fi-esp.pvdata.host:1080#%F0%9F%87%AB%F0%9F%87%AE%40vmesskhodam
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@ch-zur.pvdata.host:1080#%F0%9F%87%A8%F0%9F%87%AD%40vmesskhodam
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@dk-cop.pvdata.host:1080#%F0%9F%87%A9%F0%9F%87%B0%40vmesskhodam
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@ee-tal.pvdata.host:1080#%F0%9F%87%AA%F0%9F%87%AA%40vmesskhodam
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@fi-esp.pvdata.host:1080#%F0%9F%87%AB%F0%9F%87%AE%40vmesskhodam
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@hu-bud.pvdata.host:1080#%F0%9F%87%AD%F0%9F%87%BA%40vmesskhodam
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@ro-buk.pvdata.host:1080#%F0%9F%87%B7%F0%9F%87%B4%40vmesskhodam
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@ua-nik.pvdata.host:1080#%F0%9F%87%BA%F0%9F%87%A6%40vmesskhodam
