@@ -1,9 +1,1 @@
-socks://MklMTG1aTVBoM2VreDRwYmR4NWJkbjhUOlRlbDZAU29vblRlYW0@fi-esp.pvdata.host:1080#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@ch-zur.pvdata.host:1080#%F0%9F%87%A8%F0%9F%87%AD%40FreakConfig
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@dk-cop.pvdata.host:1080#%F0%9F%87%A9%F0%9F%87%B0%40FreakConfig
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@ee-tal.pvdata.host:1080#%F0%9F%87%AA%F0%9F%87%AA%40FreakConfig
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@fi-esp.pvdata.host:1080#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@hu-bud.pvdata.host:1080#%F0%9F%87%AD%F0%9F%87%BA%40FreakConfig
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@pl-tor.pvdata.host:1080#%40free_TROWER%20500G
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@ro-buk.pvdata.host:1080#%F0%9F%87%B7%F0%9F%87%B4%40FreakConfig
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@ua-nik.pvdata.host:1080#%F0%9F%87%BA%F0%9F%87%A6%40FreakConfig
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@pl-tor.pvdata.host:1080#%F0%9F%94%B0%20%40ConfigV2RayNG%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
